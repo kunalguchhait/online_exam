@@ -1,0 +1,84 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "iphone 12 pro",
+            "desc": "Apple iphone 12 genaration",
+            "price": 999,
+            "color": "#33505a",
+            "image": "https://cdn.phonemore.com/content/2020/jpg/15069.jpg"
+        },
+        {
+            "id": 2,
+            "name": "google pixel 5",
+            "desc": "google pixel 5th genaration",
+            "price": 699,
+            "color": "#00ac51",
+            "image": "https://static.bhphoto.com/images/images2500x2500/1601478345_1595335.jpg"
+        },
+        {
+            "id": 3,
+            "name": "galaxy s21",
+            "desc": "samsung galaxy s21 2021 edition",
+            "price": 899,
+            "color": "#7c95eb",
+            "image": "https://img.router-switch.com/media/customoptions/169/1/1/samsung-galaxy-s21-5g-sm-g9910-purple-1.jpg"
+        },
+        {
+            "id": 4,
+            "name": "realme X7 Max",
+            "desc": "realme X7 Max (Milky Way, 128 GB)  (8 GB RAM)",
+            "price": 400,
+            "color": "#2874F0",
+            "image": "https://rukminim1.flixcart.com/image/416/416/kpbipow0/mobile/0/y/d/x7-max-rmx3031-realme-original-imag3kpmyjpyssgq.jpeg?q=70"
+        },
+        {
+            "id": 5,
+            "name": "ViVO V21 5G",
+            "desc": "ViVO V21 5G (Sunset Dazzle, 128 GB)  (8 GB RAM)",
+            "price": 799,
+            "color": "#9CBFF4",
+            "image": "https://rukminim1.flixcart.com/image/416/416/ko1smfk0/mobile/0/y/p/v21-5g-pd2083f-ex-vivo-original-imag2kzczrpgc6s3.jpeg?q=70"
+        },
+        {
+            "id": 6,
+            "name": "realme 8 5G",
+            "desc": "realme 8 5G (Supersonic Blue, 64 GB)  (4 GB RAM)",
+            "price": 456,
+            "color": "#81ACCF",
+            "image": "https://rukminim1.flixcart.com/image/416/416/knrsjgw0/mobile/u/f/w/8-5g-rmx3241-realme-original-imag2d8ett6ukhcs.jpeg?q=70"
+        },
+        {
+            "id": 7,
+            "name": "POCO X3",
+            "desc": "POCO X3 (Cobalt Blue, 128 GB)  (6 GB RAM)",
+            "price": 655,
+            "color": "#096EC4",
+            "image": "https://rukminim1.flixcart.com/image/416/416/kfbfr0w0/mobile/f/x/r/poco-x3-mzb07z2in-original-imafvt3hz54npsba.jpeg?q=70"
+        },
+        {
+            "id": 8,
+            "name": "SAMSUNG Galaxy M42 5G",
+            "desc": "SAMSUNG Galaxy M42 5G (Prism Dot Gray, 128 GB)  (6 GB RAM)",
+            "price": 988,
+            "color": "#9AA5BA",
+            "image": "https://rukminim1.flixcart.com/image/416/416/koenl3k0/mobile/z/x/r/galaxy-m42-5g-sm-m426bzkgins-samsung-original-imag2vpg9gthtpgz.jpeg?q=70"
+        },
+        {
+            "id": 9,
+            "name": "APPLE MacBook Air M1",
+            "desc": "APPLE MacBook Air M1 - (8 GB/256 GB SSD/Mac OS Big Sur) MGN63HN/A  (13.3 inch, Space Grey, 1.29 kg)",
+            "price": 555,
+            "color": "#BDBFC7",
+            "image": "https://rukminim1.flixcart.com/image/416/416/khdqnbk0/computer/5/d/e/apple-original-imafxfyqkdfxqjab.jpeg?q=70"
+        },
+        {
+            "id": 10,
+            "name": "SONY Bravia X7002G 108 cm",
+            "desc": "SONY Bravia X7002G 108 cm (43 inch) Ultra HD (4K) LED Smart TV  (KD-43X7002G)",
+            "price": 400,
+            "color": "#37363B",
+            "image": "https://rukminim1.flixcart.com/image/416/416/kbqu4cw0/television/b/h/t/sony-kd-43x7002g-kd-43x7002g-original-imaftyujugrkzct2.jpeg?q=70"
+        }
+    ]
+}
